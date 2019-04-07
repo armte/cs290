@@ -1,0 +1,6 @@
+Tommy Armstrong
+4/7/2019
+CS 290: Web Development
+
+This is the first file added to my github repository. This should satisfy 1/2 required documents that the 
+assignment calls for.

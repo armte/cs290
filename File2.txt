@@ -1,0 +1,6 @@
+Tommy Armstrong
+4/7/2019
+CS 290: Web Development
+
+This is the second file added to my github repository for the CS 290 class. This should satisfy 2/2 requirements
+outline in the assignment rubric.
